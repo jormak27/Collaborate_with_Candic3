@@ -7,3 +7,5 @@ So, I just added more  to this file, yep. more stuff changed
 changed  the file on August 15th 
 
 MOre changed but it will be ignore becasue of the .gitignore file
+
+Jormak changed this part 
