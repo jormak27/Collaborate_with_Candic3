@@ -8,5 +8,4 @@ changed  the file on August 15th
 
 MOre changed but it will be ignore becasue of the .gitignore file
 
-
-Candic3 changed this part 
+Jordan changed this
