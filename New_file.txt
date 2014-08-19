@@ -1,3 +1,4 @@
-changed the file completely this time 
 
-changed it some more.  This time, see what --no-ff does.  
+changed the file completely this time 
+deleted some stuff and moved things 
+CHANGING THE FILE TO CONFIRM WHAT THE DEFAUL DOES
